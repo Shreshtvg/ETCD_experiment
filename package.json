@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "etcd": "^0.0.3",
+    "express": "^4.19.2"
+  }
+}
